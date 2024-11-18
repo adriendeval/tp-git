@@ -1,0 +1,15 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: dodgerblue;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+}
